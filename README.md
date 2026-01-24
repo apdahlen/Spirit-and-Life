@@ -1,4 +1,4 @@
-# **Sven Oftedal (1844–1911)** and **Georg Sverdrup (1848–1907)**: English Translations of Norwegian Lutheran Theology
+# **Sven Oftedal ** and **Georg Sverdrup**: English Translations of Norwegian Lutheran Theology
 
 ## Spirit and Life (Aand og Liv)
 
