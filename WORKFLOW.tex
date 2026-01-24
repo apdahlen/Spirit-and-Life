@@ -1,0 +1,95 @@
+
+
+% master.tex
+\documentclass[12pt]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{3}
+
+
+% ---------- Header/footer ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.2pt}
+\fancyhead[L]{\small Sverdrup — Working Translation}
+%\fancyhead[R]{\small \leftmark}
+%\fancyfoot[C]{\small \thepage}
+
+
+
+\begin{document}
+
+% ==========================================================
+% Title Page (English, modeled on the scanned 1910 title page)
+% ==========================================================
+\begin{titlepage}
+    \centering
+    \vspace*{1.5in}
+
+    {\Large Professors O. Oftedal and Georg Sverdrup\par}
+    \vspace{0.25in}
+
+    {\large Teachers of Theology at Augsburg Seminary\par}
+    \vspace{0.25in}
+
+    {\LARGE\bfseries Spirit and Life\par}
+    \vspace{0.10in}
+    {\large (Aand og Liv)\par}
+
+    \vspace{0.25in}
+
+    {\large Sermons on the Gospels of All Three Lectionary Cycles\par}
+    \vspace{0.15in}
+    {\large (Prædikener over Alle tre Tekstrækkers Evangelier)\par}
+
+    \vfill
+
+    {\small Minneapolis, Minnesota\par}
+    {\small Published by The Free Church Book Concern\par}
+    {\small 1898\par}
+
+    \vspace{0.5in}
+
+\end{titlepage}
+
+% ======================
+% Front matter: TOC
+% ======================
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\input{TranslatorNote.tex}
+\pagebreak
+%\input{Forward/Forward.tex}
+%\pagebreak
+
+% ======================
+% Main matter
+% ======================
+\pagenumbering{arabic}
+
+% First included file:
+\input{Sermon1/Sermon1.tex}\pagebreak
+
+
+\input{Sermon14/Sermon14.tex}\pagebreak
+
+\input{Sermon246/Sermon246.tex}\pagebreak
+
+
+\end{document}

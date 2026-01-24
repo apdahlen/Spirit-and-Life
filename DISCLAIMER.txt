@@ -1,0 +1,21 @@
+DISCLAIMER
+
+This repository contains experimental tools, workflows, and example outputs for the analysis, translation, and interpretation of historical and theological texts using structured methods and AI-assisted processes.
+
+Use at your own discretion and responsibility.
+
+If you are using these materials in academic, ecclesial, pastoral, or teaching contexts, you are strongly encouraged to consult qualified professionals and to treat these tools as aids to reflection and analysis rather than as authoritative sources.
+
+This project is intended for educational, research, and exploratory purposes only. It is not a doctrinal authority, not a substitute for trained theological, historical, or linguistic judgment, and not a replacement for professional translation, pastoral discernment, or academic peer review.
+
+The English translations in this volume were produced using AI-assisted processes guided by explicit constraints and iterative review. Revision history is publicly available through version control.
+
+Editorial responsibility in the present edition is limited to methodological design, critical oversight, and presentation; the original source texts remain authoritative.
+
+The editor does not claim ecclesiastical authority or interpretive finality.
+
+## Affiliation and Endorsement
+
+This project is an independent personal work. It is not affiliated with, endorsed by, or representative of any church body, academic institution, or organization, including (but not limited to) the American Lutheran Free Church (AFLC), the Sverdrup Society, Augsburg Seminary, or any related bodies.
+
+References to historical figures, movements, or institutions are for scholarly and contextual purposes only.
