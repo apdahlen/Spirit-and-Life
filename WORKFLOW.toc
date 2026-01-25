@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {3}Third Sunday of Advent: The Way of the Lord}{7}{section.3}%
 \contentsline {section}{\numberline {4}Fourth Sunday in Advent: Four Witnesses}{10}{section.4}%
 \contentsline {section}{\numberline {5}First Day of Christmas: A Great Joy}{13}{section.5}%
-\contentsline {section}{\numberline {6}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{16}{section.6}%
+\contentsline {section}{\numberline {6}Second Day of Christmas: The Pain of Christmas and the Joy of Christmas}{16}{section.6}%
+\contentsline {section}{\numberline {7}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{19}{section.7}%
