@@ -1,5 +1,4 @@
 
-
 % master.tex
 \documentclass[12pt]{article}
 
@@ -13,6 +12,9 @@
 \usepackage{graphicx}
 \usepackage{parskip}        % no paragraph indent; spacing between paragraphs
 
+\usepackage{tabularx}
+\usepackage{ragged2e}
+
 % -------------------- Links (optional) --------------------
 \usepackage[hidelinks]{hyperref}
 
@@ -25,9 +27,17 @@
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0.2pt}
-\fancyhead[L]{\small Sverdrup — Working Translation}
+%\fancyhead[L]{\small Sverdrup — Working Translation}
 %\fancyhead[R]{\small \leftmark}
-%\fancyfoot[C]{\small \thepage}
+\fancyfoot[C]{\small \thepage}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0.2pt}
+  \fancyhead[L]{\small Sverdrup — Working Translation}
+  \fancyhead[R]{\small \nouppercase{\rightmark}}
+  \fancyfoot[C]{\small \thepage}
+}
 
 
 
@@ -66,12 +76,136 @@
 
 \end{titlepage}
 
+
 % ======================
 % Front matter: TOC
 % ======================
 \pagenumbering{roman}
+
+
+\cleardoublepage
+
+
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\RaggedRight
+\begin{center}
+Hvorhen skal jeg dog fly\\
+Fra Lovens Tordensky\\
+Med mine Synder mange,\\
+Hvor skal jeg Trøsten fange?\\
+Thi hele Verden vide\\
+Ei lette kan min Kvide.\\[0.6em]
+
+O Jesus, naaderig!\\
+Med Hjertens Sorg til dig\\
+Jeg paa dit Ord fremtræder,\\
+Mig ved din Naade glæder,\\
+Og tror, hvad du forjætter,\\
+Dit Blod min Synd udsletter.\\[0.6em]
+
+Jeg arme Dødsens Barn,\\
+Omsnært af Syndens Garn,\\
+Til dig i Troen haster,\\
+Og i din Favn mig kaster,\\
+I Naadens Dyb jeg sænker\\
+Den Kval, som Hjertet krænker.\\[0.6em]
+
+Jeg ser, mit Skylde-Brev\\
+Til Korset naglet blev,\\
+Og i din Grav i Haven,\\
+Der er min Synd begraven\\
+Til evig Skjul og Gjemme,\\
+Hvi vil jeg mig da gremme?\\[0.6em]
+
+Jeg meget har behov,\\
+Men Gud ske evig Lov!\\
+Alt, hvad jeg kan begjære,\\
+Hos dig jeg faar, ja mere;\\
+Min Kraft i dig jeg finder,\\
+Hos dig min Sorg forsvinder.\\[0.6em]
+
+Om Satans hele Magt\\
+Sig hade mod mig lagt,\\
+For mig fra dig at skille,\\
+De faa ei, hvad de ville,\\
+Thi du mig Seier giver,\\
+Dit Blod min Frelse bliver.\\[0.6em]
+
+Men bøi, o Sjæleven,\\
+Min Hjertens Hu derhen,\\
+At jeg maa alt modstride,\\
+Som mig fra dig vil slide,\\
+Og altid her i Live\\
+Dit Legems Lem forblive.
+\end{center}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\RaggedRight
+\begin{center}
+Where shall I flee away\\
+From the thundercloud of the Law?\\
+With my many sins,\\
+Where shall I find consolation?\\
+For all the world together\\
+Cannot relieve my anguish.\\[0.6em]
+
+O Jesus, rich in grace!\\
+With heartfelt sorrow I come to you;\\
+Upon your word I stand,\\
+Rejoicing in your mercy,\\
+And trust what you promise:\\
+Your blood blots out my sin.\\[0.6em]
+
+I, a poor child of death,\\
+Ensnared by sin’s net,\\
+Hasten to you in faith,\\
+And cast myself into your arms;\\
+Into the depths of grace I sink\\
+The torment that wounds the heart.\\[0.6em]
+
+I see my record of debt\\
+Nailed fast to the cross,\\
+And in your grave in the garden\\
+There my sin lies buried,\\
+Hidden away forever---\\
+Why then should I grieve?\\[0.6em]
+
+I have great need indeed,\\
+Yet God be praised forever!\\
+All that I could desire\\
+I find in you---and more;\\
+In you I find my strength,\\
+In you my sorrow fades.\\[0.6em]
+
+Though Satan’s every power\\
+Should set itself against me,\\
+To tear me away from you,\\
+They shall not have their will;\\
+For you grant me the victory,\\
+Your blood becomes my salvation.\\[0.6em]
+
+Now bend, O Prince of souls,\\
+My heart’s desire toward this:\\
+That I may resist all\\
+Which would tear me from you,\\
+And always here in life\\
+Remain a member of your body.\\
+
+\end{center}
+\end{minipage}
+
+
+
+\cleardoublepage
+
+
+
 \tableofcontents
 \newpage
+
 
 \input{TranslatorNote.tex}
 \pagebreak
@@ -83,6 +217,7 @@
 % ======================
 \pagenumbering{arabic}
 
+\pagestyle{plain}
 % First included file:
 \input{Sermon1/Sermon1.tex}%\pagebreak
 \input{Sermon4/Sermon4.tex}%\pagebreak
@@ -91,6 +226,7 @@
 \input{Sermon14/Sermon14.tex}%\pagebreak
 \input{Sermon18/Sermon18.tex}%\pagebreak
 \input{Sermon22/Sermon22.tex}%\pagebreak
+\input{Sermon25/Sermon25.tex}%\pagebreak
 
 \input{Sermon246/Sermon246.tex}\pagebreak
 
