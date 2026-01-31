@@ -11,6 +11,8 @@
 \contentsline {section}{\numberline {11}First Sunday after Epiphany: Let the little children come to me}{34}{section.11}%
 \contentsline {section}{\numberline {12}Second Sunday after Epiphany: Zacchaeus}{38}{section.12}%
 \contentsline {section}{\numberline {13}Third Sunday after Epiphany: A Teaching with Authority}{41}{section.13}%
-\contentsline {section}{\numberline {14} ***In progress*** }{44}{section.14}%
-\contentsline {section}{\numberline {15}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{45}{section.15}%
-\contentsline {section}{\numberline {16} ***In progress*** }{48}{section.16}%
+\contentsline {section}{\numberline {14}Fourth Sunday after Epiphany: In Faith and in Doubt}{44}{section.14}%
+\contentsline {section}{\numberline {15}Fifth Sunday after Epiphany: The Seed that Grows}{48}{section.15}%
+\contentsline {section}{\numberline {16} ***In progress*** }{52}{section.16}%
+\contentsline {section}{\numberline {17}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{53}{section.17}%
+\contentsline {section}{\numberline {18} ***In progress*** }{56}{section.18}%
