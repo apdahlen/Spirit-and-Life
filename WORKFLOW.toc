@@ -19,6 +19,7 @@
 \contentsline {section}{\numberline {19}Quinquagesima Sunday: God’s Lamb — God’s Son}{62}{section.19}%
 \contentsline {section}{\numberline {20}First Sunday in Lent: Overcoming the Devil}{64}{section.20}%
 \contentsline {section}{\numberline {21}Second Sunday in Lent: Father and Son}{67}{section.21}%
-\contentsline {section}{\numberline {22} ***In progress*** }{70}{section.22}%
-\contentsline {section}{\numberline {23}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{71}{section.23}%
-\contentsline {section}{\numberline {24} ***In progress*** }{74}{section.24}%
+\contentsline {section}{\numberline {22}Third Sunday in Lent: A Man with an Unclean Spirit in the Synagogue}{70}{section.22}%
+\contentsline {section}{\numberline {23} ***In progress*** }{73}{section.23}%
+\contentsline {section}{\numberline {24}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{74}{section.24}%
+\contentsline {section}{\numberline {25} ***In progress*** }{77}{section.25}%
