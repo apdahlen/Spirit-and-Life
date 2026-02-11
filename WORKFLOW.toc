@@ -21,6 +21,8 @@
 \contentsline {section}{\numberline {21}Second Sunday in Lent: Father and Son}{67}{section.21}%
 \contentsline {section}{\numberline {22}Third Sunday in Lent: A Man with an Unclean Spirit in the Synagogue}{70}{section.22}%
 \contentsline {section}{\numberline {23}Mid-Lent Sunday: Life from God’s Life}{73}{section.23}%
-\contentsline {section}{\numberline {24} ***In progress*** }{75}{section.24}%
-\contentsline {section}{\numberline {25}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{76}{section.25}%
-\contentsline {section}{\numberline {26} ***In progress*** }{79}{section.26}%
+\contentsline {section}{\numberline {24}Mary’s Annunciation Day: The Wonderful Ways of God}{75}{section.24}%
+\contentsline {section}{\numberline {25}Palm Sunday: The Grain of Wheat}{78}{section.25}%
+\contentsline {section}{\numberline {26} ***In progress*** }{81}{section.26}%
+\contentsline {section}{\numberline {27}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{82}{section.27}%
+\contentsline {section}{\numberline {28} ***In progress*** }{85}{section.28}%
