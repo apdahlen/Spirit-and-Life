@@ -24,6 +24,7 @@
 \contentsline {section}{\numberline {24}Mary’s Annunciation Day: The Wonderful Ways of God}{75}{section.24}%
 \contentsline {section}{\numberline {25}Palm Sunday: The Grain of Wheat}{78}{section.25}%
 \contentsline {section}{\numberline {26}Maundy Thursday: The Example of Humility}{81}{section.26}%
-\contentsline {section}{\numberline {27} ***In progress*** }{85}{section.27}%
-\contentsline {section}{\numberline {28}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{86}{section.28}%
-\contentsline {section}{\numberline {29} ***In progress*** }{89}{section.29}%
+\contentsline {section}{\numberline {27}Good Friday: Your Hour and the Power of Darkness}{85}{section.27}%
+\contentsline {section}{\numberline {28} ***In progress*** }{91}{section.28}%
+\contentsline {section}{\numberline {29}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{92}{section.29}%
+\contentsline {section}{\numberline {30} ***In progress*** }{95}{section.30}%
