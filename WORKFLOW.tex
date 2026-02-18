@@ -33,7 +33,7 @@
 \usepackage{xcolor}
 
 
-
+\usepackage{comment}
 
 % -------------------- Links (optional) --------------------
 \usepackage[hidelinks]{hyperref}
@@ -58,6 +58,13 @@
   \fancyhead[R]{\small \nouppercase{\rightmark}}
   \fancyfoot[C]{\small \thepage}
 }
+
+\newenvironment{psalm}{
+  \parindent=0pt
+  \leftskip=1.5em
+  \rightskip=1.5em
+  \parskip=0.6\baselineskip
+}{\par}
 
 
 \definecolor{oxblood}{RGB}{74, 0, 0}
@@ -285,6 +292,8 @@ Remain a member of your body.\\
 \input{Sermon111/Sermon111.tex}\pagebreak
 \input{Sermon116/Sermon116.tex}\pagebreak
 \input{Sermon120/Sermon120.tex}\pagebreak
+\input{Sermon123/Sermon123.tex}\pagebreak
+%\input{Sermon127/Sermon127.tex}\pagebreak
 
 \section{  ***In progress***  }\pagebreak
 

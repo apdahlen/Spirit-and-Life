@@ -29,6 +29,7 @@
 \contentsline {section}{\numberline {29}Second Day of Easter: Faith or Hardening}{94}{section.29}%
 \contentsline {section}{\numberline {30}First Sunday after Easter: The Risen Jesus}{98}{section.30}%
 \contentsline {section}{\numberline {31}Second Sunday after Easter: The Shepherd and the Sheep}{101}{section.31}%
-\contentsline {section}{\numberline {32} ***In progress*** }{104}{section.32}%
-\contentsline {section}{\numberline {33}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{105}{section.33}%
-\contentsline {section}{\numberline {34} ***In progress*** }{108}{section.34}%
+\contentsline {section}{\numberline {32}Third Sunday after Easter: Many Rooms in My Father’s House}{104}{section.32}%
+\contentsline {section}{\numberline {33} ***In progress*** }{108}{section.33}%
+\contentsline {section}{\numberline {34}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{109}{section.34}%
+\contentsline {section}{\numberline {35} ***In progress*** }{112}{section.35}%
