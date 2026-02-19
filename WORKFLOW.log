@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  17 FEB 2026 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  18 FEB 2026 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,7 +492,7 @@ Package hyperref Info: Link coloring OFF on input line 71.
 
 {C:/Users/apdah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/apda
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-<cross.png, id=152, 1027.84pt x 1541.76pt>
+<cross.png, id=164, 1027.84pt x 1541.76pt>
 File: cross.png Graphic file (type png)
 <use cross.png>
 Package pdftex.def Info: cross.png  used on input line 117.
@@ -510,7 +510,38 @@ l.122 \cleardoublepage
 
 ] (WORKFLOW.toc [2
 
-])
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+3.
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+3.
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+33.
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+33.
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 33.
+)
 \tf@toc=\write5
 \openout5 = `WORKFLOW.toc'.
 
@@ -715,35 +746,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [22]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-9.
- (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-9.
-
-(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-59.
-
-(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-59.
-
-(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 59.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 59.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1430,7 +1432,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[107]
+[107] (Sermon127/Sermon127.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1438,7 +1440,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[108] (Sermon246/Sermon246.tex
+[108]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1446,7 +1448,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[109]
+[109])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1454,7 +1456,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[110])
+[110]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1462,7 +1464,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[111]
+[111] (Sermon131/Sermon131.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1470,20 +1472,76 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[112] (WORKFLOW.aux)
+[112]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[113])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[114]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[115] (Sermon246/Sermon246.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[116]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[117])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[118]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[119] (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: B225C9CCF1E25E12E12D84186837D433;10467.
+(rerunfilecheck)             Checksum: E641AD36757308735774C5B0AEC39242;11259.
  ) 
 Here is how much of TeX's memory you used:
- 13041 strings out of 474486
- 211862 string characters out of 5743754
+ 13076 strings out of 474486
+ 212509 string characters out of 5743754
  1940542 words of memory out of 5000000
- 34631 multiletter control sequences out of 15000+600000
- 636077 words of font info for 169 fonts, out of 8000000 for 9000
+ 34642 multiletter control sequences out of 15000+600000
+ 639269 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,67p,2488b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -1495,9 +1553,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (118 pages, 1802639 bytes).
+Output written on WORKFLOW.pdf (125 pages, 1826235 bytes).
 PDF statistics:
- 769 PDF objects out of 1000 (max. 8388607)
- 159 named destinations out of 1000 (max. 500000)
- 41758 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 815 PDF objects out of 1000 (max. 8388607)
+ 169 named destinations out of 1000 (max. 500000)
+ 43830 words of extra memory for PDF output out of 51595 (max. 10000000)
 
