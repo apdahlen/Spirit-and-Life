@@ -34,6 +34,7 @@
 \contentsline {section}{\numberline {33}Fourth Sunday after Easter: The Living Church}{108}{section.33}%
 \contentsline {section}{\numberline {34}Fifth Sunday after Easter: Our Father}{112}{section.34}%
 \contentsline {section}{\numberline {35}Ascension Day: He opened their understanding, that they might understand the Scriptures}{115}{section.35}%
-\contentsline {section}{\numberline {36} ***In progress*** }{118}{section.36}%
-\contentsline {section}{\numberline {37}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{119}{section.37}%
-\contentsline {section}{\numberline {38} ***In progress*** }{122}{section.38}%
+\contentsline {section}{\numberline {36}Fear! Fear not!: Sixth Sunday after Easter}{118}{section.36}%
+\contentsline {section}{\numberline {37} ***In progress*** }{121}{section.37}%
+\contentsline {section}{\numberline {38}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{122}{section.38}%
+\contentsline {section}{\numberline {39} ***In progress*** }{125}{section.39}%
