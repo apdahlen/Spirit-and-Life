@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  22 FEB 2026 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  24 FEB 2026 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,7 +370,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip81
 \@temptokenb=\toks25
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 71
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76
 .
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -384,24 +384,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (WORKFLOW.aux)
 \openout1 = `WORKFLOW.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -437,13 +437,13 @@ LaTeX Font Info:    ... okay on input line 71.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 71.
-Package microtype Info: Applying patch `item' on input line 71.
-Package microtype Info: Applying patch `toc' on input line 71.
-Package microtype Info: Applying patch `eqnum' on input line 71.
-Package microtype Info: Applying patch `footnote' on input line 71.
-Package microtype Info: Applying patch `verbatim' on input line 71.
-LaTeX Info: Redefining \microtypesetup on input line 71.
+LaTeX Info: Redefining \microtypecontext on input line 76.
+Package microtype Info: Applying patch `item' on input line 76.
+Package microtype Info: Applying patch `toc' on input line 76.
+Package microtype Info: Applying patch `eqnum' on input line 76.
+Package microtype Info: Applying patch `footnote' on input line 76.
+Package microtype Info: Applying patch `verbatim' on input line 76.
+LaTeX Info: Redefining \microtypesetup on input line 76.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -483,7 +483,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 71.
+Package hyperref Info: Link coloring OFF on input line 76.
  (WORKFLOW.out) (WORKFLOW.out)
 \@outlinefile=\write4
 \openout4 = `WORKFLOW.out'.
@@ -492,17 +492,17 @@ Package hyperref Info: Link coloring OFF on input line 71.
 
 {C:/Users/apdah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/apda
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-<cross.png, id=172, 1027.84pt x 1541.76pt>
+<cross.png, id=176, 1027.84pt x 1541.76pt>
 File: cross.png Graphic file (type png)
 <use cross.png>
-Package pdftex.def Info: cross.png  used on input line 117.
+Package pdftex.def Info: cross.png  used on input line 122.
 (pdftex.def)             Requested size: 398.92691pt x 598.39441pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.122 \cleardoublepage
+l.127 \cleardoublepage
                        [1
 
  <./cross.png (PNG copy)>] [1
@@ -1536,7 +1536,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[120]
+[120] (Sermon143/Sermon143.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1544,7 +1544,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[121] (Sermon246/Sermon246.tex
+[121]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1552,7 +1552,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[122]
+[122])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1560,7 +1560,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[123])
+[123]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1568,7 +1568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[124]
+[124] (Sermon246/Sermon246.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1576,20 +1576,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[125] (WORKFLOW.aux)
+[125]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[126])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[127]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[128] (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 9AD7536EAB7CBD4091F71C7C3961D8A2;12045.
+(rerunfilecheck)             Checksum: DBB3784B7DAB37CEE6C4969260105057;12326.
  ) 
 Here is how much of TeX's memory you used:
- 13102 strings out of 474486
- 213027 string characters out of 5743754
+ 13117 strings out of 474486
+ 213308 string characters out of 5743754
  1940542 words of memory out of 5000000
- 34650 multiletter control sequences out of 15000+600000
- 639269 words of font info for 172 fonts, out of 8000000 for 9000
+ 34654 multiletter control sequences out of 15000+600000
+ 639366 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,67p,2488b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -1601,9 +1625,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (131 pages, 1849247 bytes).
+Output written on WORKFLOW.pdf (134 pages, 1858159 bytes).
 PDF statistics:
- 852 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 43846 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 872 PDF objects out of 1000 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
+ 43854 words of extra memory for PDF output out of 51595 (max. 10000000)
 
