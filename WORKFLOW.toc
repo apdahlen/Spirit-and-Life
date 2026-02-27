@@ -38,6 +38,7 @@
 \contentsline {section}{\numberline {37}First Day of Pentecost: The Spirit of Truth}{121}{section.37}%
 \contentsline {section}{\numberline {38}Second Day of Pentecost: The Firm Foundation of Faith}{124}{section.38}%
 \contentsline {section}{\numberline {39}Trinity Sunday: Jesus Has the Authority}{127}{section.39}%
-\contentsline {section}{\numberline {40} ***In progress*** }{131}{section.40}%
-\contentsline {section}{\numberline {41}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{132}{section.41}%
-\contentsline {section}{\numberline {42} ***In progress*** }{135}{section.42}%
+\contentsline {section}{\numberline {40}First Sunday after Trinity: Self-Denial and Renunciation of the World}{131}{section.40}%
+\contentsline {section}{\numberline {41} ***In progress*** }{134}{section.41}%
+\contentsline {section}{\numberline {42}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{135}{section.42}%
+\contentsline {section}{\numberline {43} ***In progress*** }{138}{section.43}%
