@@ -40,6 +40,8 @@
 \contentsline {section}{\numberline {39}Trinity Sunday: Jesus Has the Authority}{127}{section.39}%
 \contentsline {section}{\numberline {40}First Sunday after Trinity: Self-Denial and Renunciation of the World}{131}{section.40}%
 \contentsline {section}{\numberline {41}Second Sunday after Trinity: On Following Christ}{134}{section.41}%
-\contentsline {section}{\numberline {42} ***In progress*** }{138}{section.42}%
-\contentsline {section}{\numberline {43}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{139}{section.43}%
-\contentsline {section}{\numberline {44} ***In progress*** }{142}{section.44}%
+\contentsline {section}{\numberline {42}Third Sunday after Trinity: The Publican Matthew}{138}{section.42}%
+\contentsline {section}{\numberline {43}Fourth Sunday after Trinity: A New Righteousness}{141}{section.43}%
+\contentsline {section}{\numberline {44} ***In progress*** }{145}{section.44}%
+\contentsline {section}{\numberline {45}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{146}{section.45}%
+\contentsline {section}{\numberline {46} ***In progress*** }{149}{section.46}%
