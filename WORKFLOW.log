@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  1 MAR 2026 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  1 MAR 2026 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -571,7 +571,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 
+l.30 
       [1]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1798,7 +1798,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: B4EC9A4B1C6F08CBA8B649E7228E88BB;14534.
+(rerunfilecheck)             Checksum: C49ED64E5388FB559B0C890C7E95C95D;14537.
  ) 
 Here is how much of TeX's memory you used:
  13215 strings out of 474486
@@ -1817,7 +1817,7 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (158 pages, 1939227 bytes).
+Output written on WORKFLOW.pdf (158 pages, 1939173 bytes).
 PDF statistics:
  1013 PDF objects out of 1200 (max. 8388607)
  212 named destinations out of 1000 (max. 500000)
