@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  1 MAR 2026 22:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  2 MAR 2026 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1798,14 +1798,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: C49ED64E5388FB559B0C890C7E95C95D;14537.
+(rerunfilecheck)             Checksum: CE2F126EFAFC594CA6450692645782E4;14421.
  ) 
 Here is how much of TeX's memory you used:
- 13215 strings out of 474486
- 215189 string characters out of 5743754
+ 13217 strings out of 474486
+ 215211 string characters out of 5743754
  1940542 words of memory out of 5000000
  34682 multiletter control sequences out of 15000+600000
- 639560 words of font info for 175 fonts, out of 8000000 for 9000
+ 639657 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,67p,2488b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -1817,9 +1817,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (158 pages, 1939173 bytes).
+Output written on WORKFLOW.pdf (158 pages, 1938854 bytes).
 PDF statistics:
- 1013 PDF objects out of 1200 (max. 8388607)
+ 1012 PDF objects out of 1200 (max. 8388607)
  212 named destinations out of 1000 (max. 500000)
  43910 words of extra memory for PDF output out of 51595 (max. 10000000)
 
