@@ -46,6 +46,8 @@
 \contentsline {section}{\numberline {45}Sixth Sunday after Trinity: The Mind of the Flesh Is Enmity Against God}{148}{section.45}%
 \contentsline {section}{\numberline {46}Seventh Sunday after Trinity: The True Banquet}{152}{section.46}%
 \contentsline {section}{\numberline {47}Eighth Sunday after Trinity: To Worship God in Vain}{155}{section.47}%
-\contentsline {section}{\numberline {48} ***In progress*** }{159}{section.48}%
-\contentsline {section}{\numberline {49}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{160}{section.49}%
-\contentsline {section}{\numberline {50} ***In progress*** }{163}{section.50}%
+\contentsline {section}{\numberline {48}Ninth Sunday after Trinity: Faithful in Little and in Much}{159}{section.48}%
+\contentsline {section}{\numberline {49}Tenth Sunday after Trinity: To whom should we go?}{162}{section.49}%
+\contentsline {section}{\numberline {50} ***In progress*** }{165}{section.50}%
+\contentsline {section}{\numberline {51}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{166}{section.51}%
+\contentsline {section}{\numberline {52} ***In progress*** }{169}{section.52}%
