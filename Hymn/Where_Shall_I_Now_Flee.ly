@@ -1,7 +1,14 @@
 \version "2.24.0"
 
+\paper {
+  top-margin = 20\mm
+  top-markup-spacing.basic-distance = #8
+}
+
+
 \header {
   title = "Where Shall I Now Flee"
+
  % subtitle = "Melody only"
  % poet = "English text adapted for chorale meter"
   composer = "J. S. Bach / chorale tune"
@@ -134,6 +141,17 @@ mem -- ber of your bo -- dy stay.
  % }
 %}
 
+\markup {
+  
+  \vspace #3
+  
+    \column {
+\line {Traditionally ascribed to Johannes Tauler; in the German form of Johann Heermann;}
+
+\line {Danish form by Hans Adolf Brorson; later Norwegian transmission by W. A. Wexels.} 
+\line {Translated here from the Danish form and rendered in singable English.}
+    }
+}
 % Hymn quotations embedded in the sermons are translated from the Danish form cited by the preacher, not reconstructed directly from the original German. Where possible, they are rendered in singable English to preserve their sermonic and devotional function.
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  11 MAR 2026 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  11 MAR 2026 21:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -219,7 +219,46 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 \CommentStream=\write3
 
 Excluding comment 'comment')
-(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen159
+\calc@Bdimen=\dimen160
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count270
+\calc@Cskip=\skip69
+)
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen161
+\ESO@tempdimb=\dimen162
+)
+\AM@pagewidth=\dimen163
+\AM@pageheight=\dimen164
+\AM@fboxrule=\dimen165
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count271
+\AM@pagebox=\box54
+\AM@global@opts=\toks25
+\AM@pagecnt=\count272
+\AM@toc@title=\toks26
+\AM@lof@heading=\toks27
+\c@AM@survey=\count273
+\AM@templatesizebox=\box55
+) (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
@@ -262,11 +301,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count268
+\c@section@level=\count274
 )
-\@linkdim=\dimen159
-\Hy@linkcounter=\count269
-\Hy@pagecounter=\count270
+\@linkdim=\dimen166
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
@@ -276,7 +315,7 @@ Now handling font encoding PD1 ...
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count271
+\Hy@SavedSpaceFactor=\count277
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
@@ -290,14 +329,14 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count272
+\c@Hy@tempcnt=\count278
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen160
+\XeTeXLinkMargin=\dimen167
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -307,9 +346,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count273
-\Field@Width=\dimen161
-\Fld@charsize=\dimen162
+\Fld@menulength=\count279
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -322,9 +361,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count274
-\c@Item=\count275
-\c@Hfootnote=\count276
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -335,8 +374,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count277
-\c@bookmark@seq@number=\count278
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -349,28 +388,28 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip70
 )
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip68
-\f@nch@offset@elh=\skip69
-\f@nch@offset@erh=\skip70
-\f@nch@offset@olh=\skip71
-\f@nch@offset@orh=\skip72
-\f@nch@offset@elf=\skip73
-\f@nch@offset@erf=\skip74
-\f@nch@offset@olf=\skip75
-\f@nch@offset@orf=\skip76
-\f@nch@height=\skip77
-\f@nch@footalignment=\skip78
-\f@nch@widthL=\skip79
-\f@nch@widthC=\skip80
-\f@nch@widthR=\skip81
-\@temptokenb=\toks25
+\f@nch@headwidth=\skip71
+\f@nch@offset@elh=\skip72
+\f@nch@offset@erh=\skip73
+\f@nch@offset@olh=\skip74
+\f@nch@offset@orh=\skip75
+\f@nch@offset@elf=\skip76
+\f@nch@offset@erf=\skip77
+\f@nch@offset@olf=\skip78
+\f@nch@offset@orf=\skip79
+\f@nch@height=\skip80
+\f@nch@footalignment=\skip81
+\f@nch@widthL=\skip82
+\f@nch@widthC=\skip83
+\f@nch@widthR=\skip84
+\@temptokenb=\toks28
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 84
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 86
 .
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -379,29 +418,29 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box56
 ) (WORKFLOW.aux)
 \openout1 = `WORKFLOW.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -437,13 +476,13 @@ LaTeX Font Info:    ... okay on input line 84.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 84.
-Package microtype Info: Applying patch `item' on input line 84.
-Package microtype Info: Applying patch `toc' on input line 84.
-Package microtype Info: Applying patch `eqnum' on input line 84.
-Package microtype Info: Applying patch `footnote' on input line 84.
-Package microtype Info: Applying patch `verbatim' on input line 84.
-LaTeX Info: Redefining \microtypesetup on input line 84.
+LaTeX Info: Redefining \microtypecontext on input line 86.
+Package microtype Info: Applying patch `item' on input line 86.
+Package microtype Info: Applying patch `toc' on input line 86.
+Package microtype Info: Applying patch `eqnum' on input line 86.
+Package microtype Info: Applying patch `footnote' on input line 86.
+Package microtype Info: Applying patch `verbatim' on input line 86.
+LaTeX Info: Redefining \microtypesetup on input line 86.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -461,17 +500,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen163
-\scratchbox=\box55
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen164
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count286
+\scratchdimen=\dimen170
+\scratchbox=\box57
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen171
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -483,8 +522,22 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 84.
- (WORKFLOW.out) (WORKFLOW.out)
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package hyperref Info: Link coloring OFF on input line 86.
+
+(WORKFLOW.out) (WORKFLOW.out)
 \@outlinefile=\write4
 \openout4 = `WORKFLOW.out'.
 
@@ -495,20 +548,60 @@ h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 <cross.png, id=228, 1027.84pt x 1541.76pt>
 File: cross.png Graphic file (type png)
 <use cross.png>
-Package pdftex.def Info: cross.png  used on input line 130.
-(pdftex.def)             Requested size: 398.92691pt x 598.39441pt.
+Package pdftex.def Info: cross.png  used on input line 132.
+(pdftex.def)             Requested size: 368.57922pt x 552.86948pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+ []
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.135 \cleardoublepage
+l.142 \cleardoublepage
                        [1
 
- <./cross.png (PNG copy)>] [1
+ <./cross.png (PNG copy)>]
+<Hymn/Where_Shall_I_Now_Flee.pdf, id=233, 597.51233pt x 845.0471pt>
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf  used on input line 15
+2.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+<Hymn/Where_Shall_I_Now_Flee.pdf, id=235, page=1, 597.51233pt x 845.0471pt>
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf, page 1>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf , page1 used on input 
+line 152.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf, page 1>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf , page1 used on input 
+line 152.
+(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf, page 1>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf , page1 used on input 
+line 152.
+(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf, page 1>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf , page1 used on input 
+line 152.
+(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
+File: Hymn/Where_Shall_I_Now_Flee.pdf Graphic file (type pdf)
+<use Hymn/Where_Shall_I_Now_Flee.pdf, page 1>
+Package pdftex.def Info: Hymn/Where_Shall_I_Now_Flee.pdf , page1 used on input 
+line 152.
+(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
+ [1
 
 
-] (WORKFLOW.toc [2
+
+ <./Hymn/Where_Shall_I_Now_Flee.pdf>] Excluding 'comment' comment. (WORKFLOW.to
+c [2
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
@@ -1961,13 +2054,13 @@ Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
 (rerunfilecheck)             Checksum: 78D2495EAFECBFD78A8B7BE932277AA9;16533.
  ) 
 Here is how much of TeX's memory you used:
- 13302 strings out of 474486
- 216831 string characters out of 5743754
- 1940542 words of memory out of 5000000
- 34706 multiletter control sequences out of 15000+600000
+ 14193 strings out of 474486
+ 232875 string characters out of 5743754
+ 1937542 words of memory out of 5000000
+ 35570 multiletter control sequences out of 15000+600000
  639851 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,13n,67p,2488b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,17n,67p,2488b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
@@ -1977,9 +2070,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (179 pages, 2008545 bytes).
+Output written on WORKFLOW.pdf (179 pages, 2054212 bytes).
 PDF statistics:
- 1136 PDF objects out of 1200 (max. 8388607)
+ 1151 PDF objects out of 1200 (max. 8388607)
  239 named destinations out of 1000 (max. 500000)
- 43958 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 43973 words of extra memory for PDF output out of 51595 (max. 10000000)
 
