@@ -1,0 +1,549 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* blindfødt: literally “born blind”; important not merely as a medical condition but as a theological image for native spiritual blindness.
+* frelst / frelses / Fortabelse: “saved” / “is saved” / “perdition” or “damnation”; these must retain soteriological force, not be weakened to “helped,” “improved,” or “lost.”
+* udvortes Midler: “outward means”; in devotional-theological prose this refers to external means or instruments used by God, not merely “external circumstances.”
+* Helligaand: “Holy Spirit”; must be rendered consistently and reverently.
+* drage: “draw”; doctrinally significant in Johannine usage; should not become “invite” or “attract” in a weak sense.
+* Frelseren: “the Savior”; a christological title.
+* aandelige Blindhed: “spiritual blindness”; central theological metaphor, tied to the bodily healing.
+* se, at Jesus er Kristus: “see that Jesus is the Christ”; “see” must retain revelatory force.
+* Hovedsagen: “the chief thing,” “the main thing”; sermonic structural marker.
+* lades tilbage: “is left behind”; eschatological and soteriological seriousness.
+* neppe­l i­gen og som gjennem Ild: “scarcely and as through fire”; likely echoing 1 Corinthians 3:15 and 1 Peter 4:18; must retain scriptural resonance.
+* mangfoldige: “many,” “manifold,” “numerous”; elevated but not obscure.
+* Under: “miracle” or “wonder”; here best rendered mostly as “miracle,” though sometimes “wonder” is possible when rhetorical weight calls for it.
+* Smuthul for Samvittigheden: literally “loophole for the conscience”; must keep the moral image intact.
+* erkjende ham som Kristus: “acknowledge him as Christ” / “confess him as Christ”; doctrinal and public force.
+* holde Ryggen fri: idiomatic; literally “keep one’s back free,” meaning to keep oneself out of danger or avoid exposure.
+* have med … at bestille: idiomatic; “have anything to do with.”
+* forargede sig: “were offended” / “took offense”; biblical and theological term, not mere annoyance.
+* kvæle sin Samvittigheds Røst: “stifle the voice of conscience”; must preserve personified conscience.
+* enfoldig / enfoldige: “simple” in the older spiritual sense of single-hearted, unsophisticated, guileless; not “simple-minded.”
+* laste: “blame,” “revile,” “speak ill of”; context calls for a morally weighty verb.
+* født paany: “born again”; doctrinally fixed rendering.
+* Vidnesbyrd af Guds Aand i min Aand: “testimony of God’s Spirit in my spirit”; should keep Romans 8 resonance.
+* fnærte: “taunt,” “gibe at,” “mock lightly”; needs care not to become too colloquial.
+* ugrunde­de Jesuhad: “groundless hatred of Jesus”; must preserve moral judgment.
+* Fol keførere: “leaders of the people”; dignified and slightly elevated.
+* Hovmod: “pride”; in devotional prose with spiritual force.
+* lægger han for Dagen: “he shows,” “he makes manifest”; more solemn than ordinary “shows.”
+* Velgjører: “benefactor”; here referring to Christ as the one who has done him good.
+* bære Forargelser: “bear offenses” / “bear occasions of offense,” i.e., endure scandal, reproach, stumbling-blocks; not easy to flatten.
+* Braadden: “the sting,” “the sharp point”; figurative force must remain.
+* Medfart: “treatment,” usually harsh treatment.
+* Trængslerne: “tribulations,” not merely “troubles.”
+* forstødt: “cast off,” “rejected.”
+* ængstede og bekymrede Sjæl: “anxious and troubled soul”; pastoral address.
+* opsøge sit bortkomne Faar: “seek out his lost sheep”; biblical image, must remain vivid.
+* alvorlig at søge Naade: “earnestly to seek grace”; cannot be reduced to generic spiritual searching.
+* opladte / fuldt opladte: “opened” / “fully opened”; retains eye imagery.
+* Salvelse: “anointing”; clear biblical echo, likely 1 John 2.
+* saligt Øieblik: “blessed moment”; should retain spiritual joy without sentimentality.
+* naturligt Menneske: “natural man”; Pauline doctrinal term, not “ordinary person.”
+* fatter: “receives” or “grasps”; likely echoing 1 Corinthians 2:14. “Receives” is more biblical, but “grasps” may help sense. Best to preserve doctrinal resonance with “does not receive.”
+
+Syntactic Hazards
+
+* Long, accumulating sermonic sentences often carry argument by clause sequence; they should not be broken up excessively.
+* Semicolon logic is important: propositions are balanced, intensified, and morally sharpened through punctuation.
+* Frequent “saaledes,” “men,” “thi,” “derfor,” “tvertimod,” and “endelig” mark logical and rhetorical turns; these must be preserved.
+* Embedded Scripture quotations and allusions are woven into the prose without modern signaling; the translation must preserve this flow.
+* Rhetorical questions build pressure on the conscience and should remain rhetorically direct.
+* Exclamations appear sparingly but forcefully; they should not be toned down.
+* Repetition is deliberate and sermonic: “Saaledes gik det … saaledes gaar det …”; “Hvor er han? Hvor er han?”; this cadence must stay.
+* Parenthetical explanatory clauses are doctrinally weighty; they must not be omitted.
+* The prose shifts between narration, exposition, exhortation, and direct address; those transitions must remain intact.
+
+Theological Hazards
+
+* The relation of bodily healing to spiritual awakening is central. The physical miracle is an instrument toward saving faith, not the chief end.
+* John 6:44 is treated as a governing doctrinal rule: no one comes to the Son unless drawn by the Father. This must remain explicit.
+* Christ must be rendered as the object of faith, confession, worship, and salvation.
+* “Jesus is the Christ” is not merely titular identification but revelatory saving knowledge.
+* The distinction between outward miracle and inward conversion is central and must not be blurred.
+* The text stresses that many may witness divine works and remain unconverted; this anti-sentimental doctrine of conversion must remain severe.
+* Fear of man versus fear of God is a key theological and pastoral contrast.
+* The Pharisees exemplify orthodoxy without living faith; this must retain its warning force.
+* New birth, testimony of the Spirit, child of God, seeking grace, and worship of Christ are all doctrinally dense and require stable rendering.
+* Being cast out by men becomes the occasion for Christ’s finding the soul; this pastoral theology must remain clear.
+* The final lines move from regeneration to filial relation with God to spiritual sight and life; the doctrinal sequence matters.
+
+Voice Hazards
+
+* The tone is solemn, earnest, exhortational, and pastorally severe. It must not become conversational or merely explanatory.
+* The preacher’s voice addresses the conscience directly and assumes eternal stakes.
+* Irony aimed at the Pharisees is sharp but not playful; it must remain morally grave.
+* Emotional intensity arises from doctrinal consequence, not ornament. Modern dramatic embellishment would distort the voice.
+* Consolation appears, but only after tribulation and seeking; tone contrasts must remain pronounced.
+* Archaic dignity should be preserved in cadence and diction, but without artificial English archaism such as “thee” or “thou.”
+
+STEP 2: IDIOM ANALYSIS
+
+* “paa det at hans aandelige Blindhed maatte borttages”
+
+  * Meaning: “so that his spiritual blindness might be removed.”
+  * Function: bodily healing is purposive and subordinate to spiritual illumination.
+  * Theological implication: miracle serves salvation, not spectacle.
+
+* “faa Syn til at se Jesus”
+
+  * Literally: “get sight to see Jesus.”
+  * Meaning: receive spiritual sight, not merely eyesight.
+  * A literal rendering is possible if carefully framed; it preserves the eye metaphor.
+
+* “En frelses, en anden lades tilbage”
+
+  * Meaning: one is saved, another is left behind.
+  * Scriptural context: echoes separation language in the Gospels.
+  * Theological implication: not all under the same outward means are converted.
+
+* “neppeligen og som gjennem Ild”
+
+  * Meaning: scarcely, and as through fire.
+  * Scriptural context: likely combines 1 Peter 4:18 (“if the righteous scarcely be saved”) and 1 Corinthians 3:15 (“yet so as by fire”).
+  * Best preserved in recognizable biblical phrasing.
+
+* “Smuthul for Samvittigheden”
+
+  * Meaning: a loophole by which conscience evades submission.
+  * Theological implication: fallen man invents moral evasions to avoid repentance.
+  * A literal rendering works well in English: “a loophole for the conscience.”
+
+* “holde Ryggen fri”
+
+  * Meaning: avoid danger, keep oneself safe, avoid entanglement.
+  * Literal translation would sound odd. Better: “keep themselves clear” or “keep out of harm’s way.”
+  * Here doctrinally it indicates cowardly self-preservation.
+
+* “have med en saa farlig Mand at bestille”
+
+  * Meaning: have anything to do with such a dangerous man.
+  * The phrase conveys deliberate distancing from Christ because of worldly risk.
+
+* “ikke med en Gang kunde kvæle sin Samvittigheds Røst”
+
+  * Meaning: could not at once stifle the voice of conscience.
+  * Biblical-ethical resonance: conscience personified as speaking truth.
+
+* “rive ned paa ham”
+
+  * Meaning: run him down, tear him down, denounce him.
+  * Here it must carry moral ugliness, not mere criticism.
+
+* “den, paa hvem Jesus faar aabnet Øinene”
+
+  * Meaning: the one whose eyes Jesus gets opened / opens.
+  * Best natural rendering: “the one whose eyes Jesus opens.”
+  * Theological implication: Christ is the effective cause of sight.
+
+* “født paany”
+
+  * Meaning: born again.
+  * Scriptural context: John 3.
+  * Fixed doctrinal expression; no substitute should be used.
+
+* “Vidnesbyrd af Guds Aand i min Aand”
+
+  * Meaning: testimony of God’s Spirit in my spirit.
+  * Scriptural context: Romans 8:16.
+  * Best to retain recognizable biblical wording.
+
+* “fnærte … med deres eget ugrunde­de Jesuhad”
+
+  * Meaning: taunt them on the basis of their own groundless hatred of Jesus.
+  * “Taunt” preserves edge, but should not sound flippant.
+
+* “hylle sig ind i sin uhyre Værdighed”
+
+  * Meaning: wrap themselves in their immense dignity.
+  * Image of self-important authority shielding itself from truth.
+  * Literal image works in English and preserves irony.
+
+* “lægger han for Dagen”
+
+  * Meaning: he shows forth, makes plain.
+  * Elevated English equivalent preferable to a flat “shows.”
+
+* “det gives ham, hvad han skal sige”
+
+  * Meaning: it is given him what he shall say.
+  * Scriptural context: Christ’s promise about speech under trial.
+  * A slightly biblical English order is appropriate: “it is given him what he shall say.”
+
+* “bære Forargelser”
+
+  * Meaning: bear reproaches, scandals, offenses.
+  * Theological implication: willingness to suffer scandal for Christ.
+  * “Bear offenses” is literal but obscure; “bear reproach” is clearer, though some biblical nuance is lost. In context, “bear reproach” may best communicate the force.
+
+* “føler Sandheden og Braadden”
+
+  * Meaning: feel the truth and the sting of this answer.
+  * Image of conviction piercing them.
+
+* “Er der ingen Læge i Gilead?”
+
+  * Scriptural context: Jeremiah 8:22.
+  * English equivalent should follow familiar Bible wording: “Is there no physician in Gilead?” or “Is there no balm in Gilead?” Since the Norwegian says “Læge,” “physician” is best.
+
+* “gaar ud i Ørkenen for at opsøge sit bortkomne Faar”
+
+  * Scriptural context: the seeking shepherd.
+  * Preserve the image, not paraphrase into “cares for the lost.”
+
+* “alvorlig at søge Naade”
+
+  * Meaning: earnestly seeking grace.
+  * Strong pietistic phrase indicating awakened, needy, serious spiritual desire.
+
+* “Her er han! Her er han! Lige ved dig — i Ordet”
+
+  * Meaning: the sought Savior is present in the preached Word.
+  * Theological implication: Christ is encountered in the means of grace.
+  * The dash is important for oral emphasis.
+
+* “Salvelse af den Helligaand og vidste alt”
+
+  * Scriptural context: 1 John 2:20, 27.
+  * Best retained as “anointing of the Holy Spirit and knew all things” or “knew everything.” “Knew all things” keeps the biblical ring.
+
+* “et naturligt Menneske, som ikke fatter de Ting, som hører Guds Aand til”
+
+  * Scriptural context: 1 Corinthians 2:14.
+  * Natural English equivalent in biblical-theological diction: “a natural man, who does not receive the things of the Spirit of God.”
+
+* “se Gud og ikke dø, men leve”
+
+  * Scriptural context: biblical language of seeing God and living.
+  * Must remain paradoxical and exalted, not explanatory.
+
+King James-like natural equivalents to note
+
+* “born again”
+* “testimony … in my spirit”
+* “as through fire”
+* “Is there no physician in Gilead?”
+* “a child of God”
+* “I believe, Lord”
+* “the natural man receiveth not …” — but pronouns must be modernized; therefore: “the natural man does not receive …”
+
+Expressions where literal translation would obscure force
+
+* holde Ryggen fri
+* have med … at bestille
+* fnærte
+* bære Forargelser
+* hylle sig ind i sin uhyre Værdighed
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis:
+
+  * This passage, like many others in the New Testament, shows how a soul came to Jesus and was saved.
+
+* Governing doctrinal premise:
+
+  * The Father, by the Holy Spirit, uses innumerable outward means to draw human beings to the Savior.
+  * John 6:44 is cited as the rule established by the triune God.
+
+* Application to this case:
+
+  * In this instance, the means was a miraculous bodily healing.
+  * The bodily opening of the eyes served the removal of spiritual blindness, that the man might see that Jesus is the Christ.
+
+* Secondary biblical analogy:
+
+  * Bartimaeus is cited to establish the same pattern: healing leads to following Jesus.
+
+* Main doctrinal clarification:
+
+  * The chief thing is not outward healing but receiving sight to see Jesus and follow him.
+
+* Sifting principle:
+
+  * Under the same event, one is saved, another left behind.
+  * Even the one whose eyes are opened is saved only scarcely and as through fire.
+
+* First major observation:
+
+  * Only one person in the narrative is said to have been saved: the man born blind.
+
+* Negative examples of non-conversion:
+
+  * Neighbors and witnesses: astonished, disputing, intellectually engaged, but not saved.
+  * Their discussion and legalistic objection show conscience seeking loopholes.
+  * Parents: fear of man, refusal to confess Christ, self-protective retreat.
+  * Pharisees: most outwardly serious and pious, yet full of hatred and offense.
+
+* Development of Pharisaic response:
+
+  * Initial inquiry, partial disagreement, traces of conscience.
+  * Once no loophole remains, they unite in rejection.
+
+* First sermonic lesson drawn:
+
+  * One may be learned in Scripture and pious in speech without living faith in Jesus.
+
+* Contrastive witness of the healed man:
+
+  * His confession is experiential and unanswerable: “One thing I know …”
+  * This becomes an analogy for Christian assurance of the new birth.
+
+* Escalation:
+
+  * Pharisees are unsettled; the healed man presses the truth back upon them.
+  * Their appeal to Moses exposes their proud blindness.
+  * Jesus’ own word about Moses is invoked to interpret them.
+
+* Evidence of genuine conversion underway:
+
+  * The man now defends his benefactor.
+  * He is given speech.
+  * He is ready to bear the consequences.
+
+* Cost of confession:
+
+  * Pharisees insult him and cast him out.
+  * The preacher broadens this to many simple believers who suffer the same.
+
+* Crisis and pastoral pivot:
+
+  * His real tribulation now begins: cast out by all.
+  * The soul cries for the Son of God, the Messiah.
+  * Direct address comforts the troubled soul: though forgotten by men, not forgotten by Christ.
+
+* Christ’s intervention:
+
+  * Jesus hears, comes, and asks, “Do you believe in the Son of God?”
+  * He knows how far the man has come: he is seriously seeking grace.
+
+* Direct application to the hearer:
+
+  * “Friend, have you so sought … and received this answer: Here he is … in the Word?”
+
+* Conversion climax:
+
+  * The man’s eyes are now fully opened.
+  * He receives the anointing of the Holy Spirit, knows, recognizes Jesus, falls down, worships.
+
+* Concluding doxological-experiential outburst:
+
+  * Blessedness of new birth, faith in Jesus, filial relation to God.
+  * Final wonder: the natural man receives spiritual sight by faith in the Son of God and sees God unto life.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* John 9:24–38
+
+  * The sermon text itself is quoted extensively.
+
+* John 6:44
+
+  * “No one can come to the Son unless the Father draw him.”
+  * Explicitly cited as governing rule.
+
+* Mark 10:51
+
+  * Bartimaeus: “What do you want me to do for you?” / “Rabboni, that I may receive my sight.”
+
+* Separation language in the Gospels
+
+  * “One is saved, another left behind” echoes eschatological separation passages.
+
+* 1 Peter 4:18 / 1 Corinthians 3:15
+
+  * “scarcely and as through fire.”
+
+* Romans 8:16
+
+  * “the testimony of God’s Spirit in my spirit, that I am a child of God.”
+
+* John 5:46
+
+  * “If you believed Moses, you would believe me; for he wrote of me.”
+  * Explicitly quoted/paraphrased.
+
+* Scriptural hymn echo
+
+  * The quoted stanza is likely from a hymn reflecting John 5 and the Pharisees’ blindness.
+
+* General biblical principle
+
+  * “God does not hear sinners,” from John 9:31 within the text.
+
+* Promise of speech under persecution
+
+  * “it is given him what he shall say” echoes Christ’s words in the Synoptics.
+
+* Jeremiah 8:22
+
+  * “Is there no physician in Gilead?”
+
+* Luke 15 / shepherd imagery
+
+  * Christ seeking the lost sheep.
+
+* 1 John 2:20, 27
+
+  * “anointing” and “knew all things.”
+
+* Galatians 4 / Romans 8
+
+  * Calling God Father and Christ brother resonates with filial adoption language.
+
+* 1 Corinthians 2:14
+
+  * “the natural man does not receive the things of the Spirit of God.”
+
+* Exodus 33 and related biblical sight/life language
+
+  * “see God and not die, but live.”
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings against unbelief, fear of man, self-protective compromise, and scriptural knowledge without faith must remain sharp.
+* The preacher’s rebukes of pride and hypocrisy should be preserved without softening.
+* Consolation to the cast-out and anxious soul must come with full tenderness, but not at the expense of gravity.
+* Exclamatory appeals such as “O, what a glorious, mighty, and irresistible confession!” must remain elevated and fervent.
+* Direct addresses to the hearer, especially “Friend,” should be preserved as pastoral confrontation and comfort.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “ingen kan komme” must remain “no one can come,” not “no one usually comes.”
+* “Faderen faar draget ham” carries effectual force: “unless the Father has drawn him” / “draw him.”
+* “maatte borttages” should remain “must be removed” or “might be removed,” depending on purposive syntax; here the purpose clause supports “might be removed,” but the theological necessity remains implied.
+* “skulde se” should remain “should see,” not merely “could see.”
+* “vilde” in hypotheticals often carries firm consequence; must be rendered with full conditional force.
+* “kunde ikke” in doctrinal argument should remain strong impossibility: “could not.”
+* “maa blive seende” should retain petitionary necessity: “that I may receive my sight.”
+* “maatte … takke Gud” and “maatte … omvende sig” express expected moral necessity; best rendered “ought surely to have …” or “one would think they must …” depending on context.
+* “vilde holde Ryggen fri” carries volitional force: “they wanted to keep themselves clear.”
+* “er rede at tage Følgerne” should remain “is ready to take the consequences.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* frelst / frelses: saved / is saved
+* Fortabelse: perdition
+* Helligaand: Holy Spirit
+* Frelseren: Savior
+* Kristus: Christ
+* Guds Søn: Son of God
+* Naade: grace
+* omvende sig / Omvendelse: repent / repentance, or be converted / conversion depending on context
+* gudfrygtig: God-fearing
+* Guds Barn: child of God
+* født paany: born again
+* naturligt Menneske: natural man
+* Vidnesbyrd: testimony
+* Salvelse: anointing
+* Trængsler: tribulations
+* Synagogen / Udstødelse: the synagogue / being cast out
+* Forargelse / Forargelser: offense / reproach where context demands intelligibility
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Blindness and sight remain the governing metaphor for unbelief and faith.
+* “Loophole for the conscience” must remain an image, not be paraphrased into abstract evasion.
+* “Wrap themselves in their immense dignity” must preserve the image of pride as self-covering.
+* The sting in the Pharisees’ response must stay concrete.
+* Lost sheep imagery must remain intact.
+* Full opening of the eyes must remain the final image of conversion.
+* “See God and not die, but live” must remain paradoxical and biblical, not explanatory.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Narrative exposition begins with measured doctrinal calm.
+* Severity rises as the surrounding people remain unconverted.
+* Sharp irony and rebuke intensify in the treatment of the Pharisees.
+* The tone darkens into tribulation when the healed man is cast out.
+* Then comes tender pastoral consolation.
+* Finally the text ascends into doxological joy and wonder.
+* These shifts must remain distinct and not be flattened into one uniform tone.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Repeated openings such as “Thus it happened there, thus it happens here” should be preserved for spoken force.
+* Clause chains should often be retained rather than re-cut into brief modern prose.
+* Dashes, semicolons, and repetitions carry breath and emphasis and should be kept where effective.
+* Direct quotations should sound proclaimable from the pulpit.
+* Climactic brief utterances such as “I believe, Lord!” and “Here he is! Here he is!” should stand with full oral weight.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+A Man Born Blind.
+
+Twelfth Sunday after Trinity.
+
+John 9:24–38. Then they called the man who had been blind a second time and said to him: Give God the glory! We know that this man is a sinner. Then he answered and said: Whether he is a sinner, I do not know; one thing I know, that I, who was blind, now see. But they said again to him: What did he do to you? How did he open your eyes? He answered them: I have already told you, and you did not heed it; why do you want to hear it again? Do you also want to become his disciples? Then they reviled him and said: You are his disciple, but we are Moses’ disciples. We know that God has spoken to Moses; but as for this man, we do not know where he is from. The man answered and said to them: In this there is indeed something strange, that you do not know where he is from, and yet he has opened my eyes. But we know that God does not hear sinners; but if anyone is God-fearing and does his will, him he hears. Since the world began it has never been heard that anyone opened the eyes of one born blind. If this man were not from God, he could do nothing at all. They answered and said to him: You were altogether born in sin, and do you teach us? And they cast him out. Jesus heard that they had cast him out, and when he found him, he said to him: Do you believe in the Son of God? He answered and said: Who is he, Lord, that I may believe in him? But Jesus said to him: You have both seen him, and it is he who speaks with you. Then he said: I believe, Lord! And he worshiped him.
+
+This passage, like so many others in the New Testament, deals with how a soul found its way to Jesus and was saved. Innumerable are the outward means which the Father uses by his Holy Spirit to draw men to the Savior, according to that rule which the triune God has set for himself, that “no one can come to the Son unless the Father has drawn him” (John 6:44); in this case it took place, as so often, by a miraculous healing of a bodily evil, in that the man born blind had his eyes opened by Jesus, in order that his spiritual blindness might be taken away, and he should see that Jesus is the Christ.
+
+“What do you want me to do for you?” Jesus asks blind Bartimaeus (Mark 10:51). “Rabboni, that I may receive my sight,” he answered, was healed, and followed Jesus.
+
+Thus it happened there, thus it happens here. The chief thing is not to be healed outwardly, but to receive sight to see Jesus and follow him. Thus it happened then and thus it happens now: one is saved, another is left behind, and the one whose eyes are opened is saved, but scarcely and as through fire.
+
+First of all, we note that here only one is spoken of as having been saved; it was the man born blind, who was first healed bodily, but thereafter also became spiritually seeing.
+
+There were many, both neighbors and others, who were witnesses to the miracle that had taken place. Were they therefore saved? By no means; no more than if all God’s children in our day were given power to work miracles; scarcely one more soul would be saved.
+
+On the contrary. We see that they were astonished. Then we see them begin to discuss whether it really was a miracle that had taken place—exactly as it would go in our highly enlightened times. Finally, when the man born blind had explained both by whom and how it had happened, we see that they brought the healed man before the Pharisees—almost as though he had committed some evil. For it had happened on a Sabbath. There was a loophole for the conscience! How many thousands of excuses does not the human heart have in order not to see God’s miracles and repent?
+
+Then there are his parents. One would surely think they must from their whole heart give thanks to God for the unspeakable benefaction that their child had become seeing; they ought surely to repent and believe in the Son. But no; they feared men more than God, and since Jesus was mixed up in this matter, and since exclusion from the synagogue had already been decreed for acknowledging him as Christ, they excused themselves and withdrew. They surely wanted to have nothing to do with so dangerous a man. They wanted to keep themselves clear. A frequent cause of the perdition of thousands and thousands! They do not have the courage to break with the world and follow Jesus.
+
+Then finally there are those who had the reputation of being the most serious and the most God-fearing among the Jews, the Pharisees. They not only did not repent, but they hated Jesus and took offense at the miracle and at the one on whom it had been done.
+
+They had first questioned the healed man born blind once already and examined him closely. Nor were they at once fully agreed. Some thought immediately that a man who did not keep the Sabbath could not be from God, while others, who could not at once stifle the voice of their conscience, wondered whether in general “a sinful man could do such signs.” But when it had been put beyond all doubt that the man really had been blind from birth and really had been healed, so that here too there was no loophole for not acknowledging Jesus, by whom the miracle had been done, then they were soon fully agreed.
+
+It was then that they called the man born blind a second time and said: “Give God the glory! We know that this man is a sinner.”
+
+From this we see that it is possible to be both learned and experienced in God’s Word, and godly in speech, without having a true and living faith in Jesus.
+
+The miracle, which they could not deny, had made them so zealous for God and his glory that with so much the better conscience they could tear down the one by whom the miracle had been done, the Sabbath-breaker. Their great words, “we know,” were meant to put an end to all doubt and all objections in the simple man born blind, and thereby bring this whole unpleasant matter out of the world.
+
+But they did not know that the one whose eyes Jesus opens, he sees what is often hidden from the wise and prudent. He could not follow such logic: to honor God and blame the one through whom he works miracles. Instead of any other answer, he simply points to what has happened: “One thing I know, that I, who was blind, now see.”
+
+Oh, what a glorious, mighty, and irresistible confession! It is as when the simple Christian can testify: “One thing I know, that I am born again and have the testimony of God’s Spirit in my spirit, that I am a child of God!”
+
+What wonder that they were thrown into confusion and began again to ask how the whole thing had happened, and that the simple man born blind could not refrain from taunting these most holy and learned Pharisees with their own groundless hatred of Jesus and asking them whether perhaps they too wished to become his disciples.
+
+The exalted leaders of the people answered by wrapping themselves in their immense dignity: We are Moses’ disciples. To Moses God has spoken, but this man we do not know where he is from. O, you proud blindness!
+
+Jesus had rightly said of them: “If you believed Moses, you would believe me also; for he wrote of me,” as we also sing:
+
+“They search the Scripture closely,
+But Jesus is not known,
+Though he stands before their eyes,
+For Pride says: No.”
+
+That the man born blind had not only had his bodily eyes opened, but had also received a new and simple sight into God’s Word, he makes manifest by his answer.
+
+A divine miracle has been done upon me, and you yourselves have said: Give God the glory! How then is it possible that you, teachers of Israel, do not know where he is from, and indeed on top of that call him a sinner? God, after all, does not hear sinners.
+
+Already the man born blind is being driven into conflict for his benefactor; it is given him what he shall say, and he is ready to take the consequences, in other words to bear reproach, two strong testimonies that a man is truly on the way of conversion.
+
+The Pharisees feel the truth and the sting of this answer, and they seized the weapon which in that time and in all times has belonged to them. They reviled him and cast him out.
+
+How many simple children of God down here have not had to suffer the same treatment?
+
+But now the tribulations also began in earnest. Cast out of the synagogue. That means: forsaken, rejected by all. What wonder if the man born blind sighs with a deeper cry: Is there no physician in Gilead? Where is the Son of God? Where is the Messiah?
+
+Poor anxious and troubled soul! Though men have forgotten you and cast you off, yet you are not forgotten by him who goes out into the wilderness to seek his lost sheep.
+
+When Jesus heard that the man born blind had been cast out, then he came to him. So it stands written.
+
+“Do you believe in the Son of God?” he asked. He knew how far the man born blind had come; he had seen to what end he tended: earnestly to seek grace.
+
+Therefore he also answers as though he would say: Is it not precisely him I seek, is it not precisely him I wait for? Where is he? Where is he?
+
+Friend, have you thus sought and thus asked and—received this answer:
+
+Here he is! Here he is! Right beside you—in the Word?
+
+Then the man born blind had his eyes fully opened; then he received an anointing of the Holy Spirit and knew all things; for he knew Jesus, yes, much more, was known by him, fell down before him and worshiped him: I believe, Lord!
+
+O, what a blessed moment! To be born again, to believe in Jesus, to call him one’s brother and God one’s Father!
+
+Wonder above wonder, that I, a natural man, who do not receive the things that belong to the Spirit of God, should have my eyes opened by faith in the Son of God and see God and not die, but live!
