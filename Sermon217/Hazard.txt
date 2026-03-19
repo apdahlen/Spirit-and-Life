@@ -1,0 +1,244 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Himmeriges Rige: literally “the Kingdom of Heaven.” In this Matthean context it should remain “the Kingdom of Heaven,” not be flattened into “heaven” or generalized into “God’s kingdom” where the author is deliberately echoing Matthew.
+* omvender eder: archaic/plural-reflexive form meaning “turn/repent, be converted.” It carries strong theological force, not mere “change your minds.”
+* ingenlunde: emphatic negation, stronger than “not”; best rendered “by no means” or “in no wise,” though the latter may sound too archaic.
+* annammer: archaic “receives.” In context it is hospitable, spiritual reception “in My name,” not merely “accepts” in a mental sense.
+* forarger / Forargelse: a central biblical term. In this passage it means “causes to stumble,” “gives offense” in the grave spiritual sense of scandal, temptation, or stumbling-block—not mere emotional offense.
+* fornedrer sig selv: “humbles himself.” Must retain the active, voluntary abasement.
+* ringeste / foragtede / fornedrede: “lowest / most despised / humiliated.” The accumulation matters.
+* Sinds Uforstand: not mere “confusion,” but the folly or uncomprehending state of mind.
+* Tilrettevisning: “reproof” or “correction,” not merely “answer.”
+* høitstræbende: “aspiring to high things,” “high-striving,” with ambition implied.
+* idethele: “at all,” “in the first place,” in the total sense.
+* selvskrevne: literally “self-inscribed”; idiomatically “certain,” “as good as assured,” “surely entitled.”
+* salige / salighed: “blessed / salvation” or “bliss.” In devotional Lutheran prose, “salig” can imply eternal blessedness, not mere happiness.
+* Høihed / Klogskab: “loftiness / wisdom.” Here “Klogskab” often carries worldly cleverness, not true wisdom.
+* Menneskelivets største Smerte og høieste Fryd: elevated devotional contrast that must not be reduced.
+* Dødens Stund: “the hour of death,” not just “death.”
+* Fortabelse: “perdition,” “eternal perdition,” not merely “loss.”
+* Retfærdighed, Fred og Glæde: likely echoing Romans 14:17; must preserve the triad.
+* uverdig: “unworthy,” with moral/spiritual weight.
+* prøvede Kristen: “tested/tried Christian,” not simply “experienced Christian.”
+* idel Naade: “nothing but grace,” “pure grace,” with emphatic exclusivity.
+* vægre sig ved: “refuse,” “shrink from.”
+* forsmædelige Død: “shameful/ignominious death,” with strong passion-language.
+* Kristensjæl: intimate sermonic address, “Christian soul.” Should be preserved, not neutralized into “Christian.”
+* Barnesind / Barnefred / Barnefryd: childlike mind/spirit, child-peace, child-joy. These are pietistic compounds; “childlikeness” may help, but the experiential warmth must remain.
+* fredløse: literally “without peace”; not simply restless, but deprived of peace.
+* Forførelsens og Forargelsens Magt: “the power of seduction and offense/stumbling.” Both terms are spiritually dangerous, not socially uncomfortable.
+* Lod: “lot,” “portion,” one’s allotted condition before God.
+* hoffærdige: archaic for “proud,” often with biblical resonance.
+
+Syntactic Hazards
+
+* Long cumulative sentences carry sermonic force; they should not be broken up excessively.
+* The movement from narration to exhortation is often accomplished by semicolons and adversative pivots (“men,” “dog,” “og dog”); these must be preserved where possible.
+* Repeated rhetorical questioning (“Hvo er...?”, “Er det da...?”, “Hvad vælger du?”) structures the appeal to conscience and should remain direct.
+* Embedded quotation from the Gospel text and later paraphrased sayings of Christ must remain clearly distinguished while flowing naturally into commentary.
+* Parallel clause chains (“med sin Klogt ... med sin Lyst ... med sin Magt ...”) must be preserved for oral cadence and cumulative pressure.
+* Direct apostrophe to the heart/soul (“mit hovmodige ... Hjerte,” “Kristensjæl”) should remain vivid and second-personal.
+* Contrasts are built syntactically: Jesus going to suffering / disciples thinking of glory; greatest / least; pain / blessedness; world / Kingdom of God. These should not be flattened.
+
+Theological Hazards
+
+* “Become as children” must not be sentimentalized into innocence; the passage concerns humility, dependence, receptivity, and conversion.
+* omvender eder: must preserve repentance/conversion as a necessary work wrought by God’s Spirit.
+* The statement that the Holy Spirit must work this change is doctrinally crucial and explicitly monergistic in tone.
+* Childlikeness is joined with faith and love, not naïveté; this must remain clear.
+* Grace alone (Naaden alene) is central and must be rendered in a way that keeps its Lutheran exclusivity.
+* The contrast between worldly wisdom and the Spirit’s work should remain stark.
+* Eternal stakes are explicit: salvation, perdition, eternal torment/blessedness. No softening.
+* “Offense” / “stumbling” concerns leading believers into sin, doubt, fear, or ruin, not merely hurting feelings.
+* Christ’s humiliation and blood are invoked soteriologically and exemplarily at once; both dimensions must remain.
+* The final allusion to God resisting the proud and giving grace to the humble must retain biblical gravity.
+
+Voice Hazards
+
+* The prose is solemn, earnest, pastoral, and admonitory; it must not become conversational or therapeutic.
+* The author repeatedly presses the conscience with “du”; this implicating second person must remain sharp.
+* Exclamations are grave, not theatrical. Their force comes from moral consequence, not emotional embellishment.
+* The sermon’s tenderness appears within severity; consolation must not dissolve warning, and warning must not obliterate consolation.
+* The style is elevated but not ornate for ornament’s sake; too much archaizing would distort it, but so would modern simplification.
+* Biblical resonance should come through cadence and doctrinal vocabulary, not through imported Jacobean pronouns.
+
+STEP 2: IDIOM ANALYSIS
+
+* “bliver som Børn” / “Barnesind”: This does not mean childishness. It signifies humble dependence, receptivity, trust, and freedom from self-exalting pretension. Literal “become like children” works, but the translation must guard against sentimental or merely psychological readings.
+* “komme ind i Himmeriges Rige”: a biblical formula for entering the Kingdom of Heaven. It is stronger than “go to heaven”; it concerns participation in God’s reign and salvation.
+* “stige ned fra al sin egen Høihed og al sin egen Klogskab”: metaphor of descending from one’s own height and wisdom. It conveys renunciation of self-exaltation and worldly self-assurance. This should remain metaphorical, not be paraphrased into “stop being proud.”
+* “Sjælen paa dens Himmelvei”: “the soul on its heavenward way.” This is both devotional and eschatological; it should retain the pilgrimage image.
+* “vende om”: in this sermonic context it is both “turn back” and “repent/be converted.” Depending on context, “turn back” may preserve the image while “repent” preserves theological specificity.
+* “Barnefred og Barnefryd”: pietistic experiential language for childlike peace and joy given by God. These expressions should remain concrete and affective.
+* “Verdens Ild har brændt, og Verdens Stormvind har leget med Asken”: image of a heart scorched and devastated by the world. The world is personified as destructive. The metaphor must stay intact.
+* “gaa igjennem Smerten”: passing through pain as part of repentance and conversion. Not mere emotional discomfort, but spiritual mortification.
+* “Frelseren kalder dig til sit Hjerte og sit Kors”: a devotional, Christocentric call to intimate communion and suffering discipleship. “Heart and cross” should remain literal-metaphorical, not explained away.
+* “Gaa hen og sæt dig nederst!” likely echoes Luke 14:10. A natural English equivalent is “Go and sit down in the lowest place.” This preserves scriptural cadence.
+* “Ven, sæt dig høiere op!” also echoes Luke 14:10. “Friend, move up higher” is the natural biblical English equivalent.
+* “Herlighedens Herre” echoes 1 Corinthians 2:8 / James 2:1 in biblical diction. “the Lord of glory” is the strongest equivalent.
+* “træde i hans Fodspor”: biblical discipleship idiom, likely resonant with 1 Peter 2:21. “follow in His footsteps” is the natural English equivalent.
+* “Verden gaar dig saa stolt forbi”: the world passes you by in pride, with disdain. The image of being passed by should remain.
+* “Tro paa ham, som bar Korset foran dig, og bar Korset for din Skyld”: contains both example (“before you”) and substitution (“for your sake”). Both dimensions must be preserved.
+* “lægger Stene paa deres Vei, for at de skulle snuble og falde”: transparent biblical stumbling-block imagery. Literal rendering is best because Scripture itself uses this figure.
+* “skyde Tvilens Pile ind i Børnenes Hjerter”: “shoot the arrows of doubt into the hearts of the children.” This likely echoes biblical martial imagery, especially the “fiery darts” motif; it should remain vivid.
+* “lægge Snarer for deres Fod”: biblical idiom for entrapment. “lay snares for their feet” is a natural equivalent.
+* “klyng dig som et lidet Barn til hans Haand”: intimate image of helpless, trusting dependence. Literal rendering is essential.
+* “hvile nærmest ved Faderens Bryst”: Johannine and familial resonance, suggesting intimacy, repose, and filial blessedness. Literal rendering is preferable.
+* “staar de hoffærdige imod, men giver de ydmyge Naade”: unmistakable biblical allusion (James 4:6; 1 Peter 5:5, also Proverbs 3:34 tradition). A natural English equivalent is “resists the proud but gives grace to the humble.”
+
+King James-style equivalents useful in moderated form
+
+* “Kingdom of Heaven”
+* “by no means enter” / “shall by no means enter”
+* “receive”
+* “causes one of these little ones ... to stumble” rather than modern weak “offend”
+* “Go and sit down in the lowest place”
+* “Friend, move up higher” or “Friend, go up higher”
+* “the Lord of glory”
+* “resists the proud, but gives grace to the humble”
+
+Expressions where literal translation alone could obscure force
+
+* “forarger” cannot simply be “offends”; in English that sounds emotional rather than spiritually ruinous.
+* “salige” in places may need “saved” or “blessed” depending on context, because “happy” would be wholly inadequate.
+* “Klogskab” may need “worldly wisdom” where the context is polemical, since simple “wisdom” could sound commendatory.
+* “Barnesind” cannot be reduced to “mind of a child” without risking childishness; “childlike spirit” or “childlike mind” is often better.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening narrative frame: The event is located during Jesus’ final journey from Galilee to Jerusalem, when He is going toward suffering, cross, and death.
+* Foundational contrast: Jesus is occupied with humiliation and sacrifice; the disciples are occupied with rank and glory.
+* Initial rebuke: Their question is exposed as foolish by contrast with Christ’s path.
+* Object lesson: Christ places a little child among them as the interpretive center of the discourse.
+* First doctrinal pivot: Before asking who is greatest, one must ask how one may enter the Kingdom at all.
+* Exposure of false security: The disciples presumed their place in the Kingdom was assured; the preacher turns that warning toward the hearers.
+* Central thesis: Unless a person is converted and becomes as a child, entry into the Kingdom is impossible.
+* Existential amplification: The preacher explains why this is difficult—one must descend from self-height, surrender worldly wisdom, and accept the judgment upon one’s former life.
+* Anthropological/doctrinal claim: Fallen human nature cannot accomplish this; the Holy Spirit must work it.
+* Consolatory turn: Painful conversion yields childlike peace and joy; deepest pain and highest joy meet in the Spirit’s victory.
+* Urgent appeal: Better to endure the pain of repentance now than lose all at death and enter eternal perdition.
+* Second doctrinal pivot: The child teaches not only entrance into the Kingdom, but greatness within it through self-humbling.
+* Christological confirmation: The path downward is Christ’s own path; if the Lord of glory became servant of all, no Christian may refuse the same road.
+* Pastoral consolation in suffering: Childlike faith prevents bitterness under contempt; Christ’s cross-bearing before and for the believer turns humiliation into the path to blessedness.
+* Warning against scandal: Those who scandalize or ensnare God’s children do evil and walk in darkness.
+* Realistic eschatological note: Such offenses are unavoidable in the world.
+* Description of the world’s methods: doubt, desire, and power are the world’s instruments to unsettle believers.
+* Final exhortation and promise: Cling to Christ like a little child; He will bring you safely through.
+* Concluding reversal: The one who needed most grace and therefore clung closest to Christ finds the best place. The sermon ends with humble blessedness under God’s favor.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 18:1–7 is the governing text and is quoted explicitly at the outset.
+* “Unless you are converted and become as children...” directly from Matthew 18:3.
+* “Whoever humbles himself like this child...” from Matthew 18:4.
+* “Whoever receives one such child in My name receives Me” from Matthew 18:5.
+* “Whoever causes one of these little ones who believe in Me to stumble...” from Matthew 18:6.
+* “Woe to the world because of offenses...” from Matthew 18:7.
+* “Go and sit down in the lowest place” / “Friend, move up higher” likely echoes Luke 14:10.
+* “Righteousness and peace and joy” likely echoes Romans 14:17.
+* “The Lord of glory” likely echoes 1 Corinthians 2:8 and is consonant with James 2:1.
+* “Follow in His footsteps” resonates with 1 Peter 2:21.
+* “Arrows of doubt” may echo Ephesians 6:16 by analogy with the fiery darts of the evil one.
+* “Lay snares for their feet” resonates with frequent biblical trap/snare language in Psalms, Proverbs, Jeremiah, and Romans.
+* “Rest nearest the Father’s breast” carries Johannine intimacy imagery, though adapted devotionally rather than quoted.
+* “God resists the proud, but gives grace to the humble” echoes James 4:6 and 1 Peter 5:5, rooted in Proverbs 3:34.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings must remain warnings: “by no means enter,” “eternal perdition,” “eternal torment,” and the threat attached to scandalizing believers should not be softened.
+* Appeals to conscience must remain direct: the repeated “you” is accusatory, searching, and pastoral.
+* Consolation should remain hard-won. Peace and joy come after the death of pride and through the Spirit’s victory.
+* Exclamations such as “O how happy, O how well helped we would be!” should remain elevated and fervent, but not inflated into melodrama.
+* The world must remain morally charged: proud, cruel, peace-destroying.
+* Christ must remain both tender and severe: He calls to His heart and cross, yet His word excludes the unconverted from the Kingdom.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” must usually remain “must,” not “should” or “have to” where the latter weakens doctrinal necessity.
+* “skal” in promises and warnings should generally remain “shall” where English still bears solemn force naturally; otherwise “will” when idiom requires it.
+* “kan ikke” should remain “cannot,” not “find it hard to.”
+* “ingenlunde” should be rendered with full exclusion: “by no means,” “in no wise,” or “certainly not enter.”
+* “vil” often bears volitional force; e.g., “Herren vil” is “the Lord wills,” not just “wants” in a casual sense.
+* “uundgaaeligt” should remain “unavoidable” or “inescapable.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Himmeriges Rige: Kingdom of Heaven
+* Guds Rige: Kingdom of God
+* omvende / omvender eder / vende om: convert / be converted / turn back or repent, according to immediate syntax, but consistently preserving repentance/conversion
+* Barn / Børn: child / children
+* Barnesind: childlike spirit or childlike mind
+* Barnefred / Barnefryd: childlike peace / childlike joy
+* Naade: grace
+* Helligaanden / Guds Aand / Aanden fra Gud: the Holy Spirit / God’s Spirit / the Spirit from God
+* Tro: faith (or believe as verb)
+* Kjærlighed: love
+* salig / salighed: blessed / salvation or blessedness depending on context
+* Fortabelse: perdition
+* Forargelse / forarger: stumbling-block, scandal, offense in the spiritual sense / causes to stumble
+* Frelseren: the Savior
+* Herlighed: glory
+* ydmyg / fornedrer sig selv: humble / humbles himself
+* Retfærdighed, Fred og Glæde: righteousness, peace, and joy
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Descending from one’s own height must remain a spatial metaphor.
+* Throwing away acquired wisdom as a harmful burden on the soul’s heavenward journey must remain imagistic.
+* The old heart bearing the burns of the world’s fire and the ashes stirred by the world’s storm-wind must remain vivid.
+* Christ’s heart, hand, footsteps, cross, and arms are devotional metaphors of intimacy, guidance, imitation, atonement, and protection; none should be flattened.
+* Stones on the way, arrows of doubt, snares for the feet, and being led safely past offense form a coherent image-field of pilgrimage and peril; preserve it.
+* Resting nearest the Father’s breast must remain an image of filial nearness.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Preserve the abrupt movement from rebuke to consolation, from dread to blessedness.
+* The sermon alternates between exposing pride and offering refuge in Christ.
+* Severity toward the world and toward spiritual pride must contrast with tenderness toward God’s children.
+* The final note is not terror but humble consolation under grace; this tonal landing matters.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Maintain sentence length where argument accumulates through subordinate clauses.
+* Preserve semicolon turns where English can bear them.
+* Keep repeated openings and triads for preachability.
+* Allow vocative addresses (“my proud... heart,” “Christian soul”) to stand distinctly.
+* Retain the build-up toward rhetorical questions and final benediction-like closure.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Greatest in the Kingdom of Heaven.
+
+Seventeenth Sunday after Trinity.
+
+Matthew 18:1–7. At the same time the disciples came to Jesus and said, “Who is the greatest in the Kingdom of Heaven?” And Jesus called a little child to Him and set it in the midst of them, and said, “Truly I say to you: Unless you are converted and become as children, you shall by no means enter the Kingdom of Heaven. Therefore, whoever humbles himself as this little child, he is the greatest in the Kingdom of Heaven. And whoever receives such a child in My name receives Me. But whoever causes one of these little ones, who believe in Me, to stumble, it would be better for him if a millstone were hung about his neck, and he were sunk into the depth of the sea. Woe to the world because of stumbling-blocks! For it is necessary that stumbling-blocks come; yet woe to that man by whom the stumbling-block comes!”
+
+This event falls in that period of Jesus’ earthly life when for the last time He journeyed up from Galilee to Jerusalem. He was going to suffering, cross, and death; but His disciples did not understand it; they were thinking of the Kingdom and the glory, the Kingdom of God, the Kingdom of Heaven, the Kingdom of the Messiah and His glory. Therefore, while Jesus went to become the lowest and most despised and humiliated among the children of men, His disciples in the folly of their minds asked Him, “Who is the greatest in the Kingdom of Heaven?”
+
+There is so dreadful a contrast between the thoughts that occupied the Savior and the thoughts that stirred in the hearts of the disciples, that we must marvel at the heavenly wisdom and love with which our Savior meets their foolish question.
+
+Yet it is a thorough and serious reproof that the disciples receive. A little child is the instrument that the Lord employs in order to rebuke and shame the high-striving disciples.
+
+The first thing Jesus says about the child is a piercing warning: “Truly I say to you: Unless you are converted and become as children, you shall by no means enter the Kingdom of Heaven.” The disciples were thinking about who was greatest in the Kingdom of Heaven; but the Lord wills that first and foremost they should think about how they may enter the Kingdom of Heaven at all. The disciples surely thought that in that matter all was in order; if they were not in the Kingdom of Heaven, who then should be there? Why, they had left all things and followed Jesus; they had believed and confessed that He was Christ, the Son of the living God; they were His friends, His only followers; they must be as good as assured of being in the Kingdom of Heaven; for them the question was: Who is the greatest?
+
+But Jesus says to them, and to all of us who seem so sure that we are within the Kingdom of Heaven: “Unless you are converted and become as children, you shall by no means enter the Kingdom of Heaven.” There is no other way, then, than this: you must become as a child and continue to be as a child, if you would enter in. But that means that it is so difficult to enter in that there is no time or occasion to ask who shall be greatest. If only we might enter in; if only we might be saved! If only we could attain the very lowest place in the Kingdom of God, O how blessed, O how well helped we would be!
+
+Is it then so difficult? Yes, it is difficult to be converted and become as children. To descend from all one’s own height and all one’s own wisdom, gained through a long and painful human life, to cast it away as useless, indeed as a harmful burden that only hinders the soul on its heavenward way, O, that is hard, dreadfully hard.
+
+To have to confess that all our way in the world and every step we have taken has only been vain and empty, that is pain, deadly pain to our natural mind. The great, proud, grown mind, so worldly-wise and so heartless, looks down with contempt upon the childlike mind, which believes so easily and loves so warmly. And yet you must return to that, my proud, suspicious, self-righteous heart; for without this spirit you shall by no means enter the Kingdom of Heaven.
+
+But I cannot, says the grown person. And he speaks the truth. For this is the work of the Holy Spirit. God’s Spirit must work this, that an old human being becomes a child again and may begin afresh with childlike faith and love. And as painful as it is to have to turn back when one thinks one has come so far forward, so blessed is it also to feel childlike peace and childlike joy in one’s old heart, where the fire of the world has burned and the storm-wind of the world has played with the ashes. It is the greatest pain and the highest joy of human life that meet in a mysterious moment when the Spirit from God conquers the spirit of the world in the human soul and gives peace there through faith in Jesus Christ.
+
+Are you then afraid to pass through the pain? Is it so hard to lose the world in order to gain the Kingdom of God? Yet it is altogether harder one day, in the hour of death, to lose the world and to gain an eternal perdition. Continue until death with your worldly wisdom and your worldly desire, and you lose all without gaining anything but eternal torment. Turn back in time, while the Savior calls you to His heart and His cross, and you gain the Kingdom of God with righteousness, peace, and joy. Which do you choose?
+
+But the Savior wills that the child He has set among us shall teach us still more; therefore He adds: “Whoever humbles himself as this little child, he is the greatest in the Kingdom of Heaven.”
+
+It is possible to become great in the Kingdom of Heaven. The Savior Himself shows the way there: “Go and sit down in the lowest place!” If you truly do this, if you do it because you know yourself to be the very least and the most unworthy, then one day there shall sound to you a heavenly, blessed voice: “Friend, move up higher!”
+
+What are you, other than a poor sinner before God? What is there in the oldest and most tried Christian that is good, except that which he has received by grace, nothing but grace? There is nothing else that saves him than grace, grace alone. Why should he shrink from being the least and from sitting down in the lowest place? And if the greatest and the chief became the servant of all, what harm would have been done? Has not the Lord of glory become the servant of all with His own blood, with His shameful death? And to follow in His footsteps and be misunderstood and despised and mocked and scorned as He was, that you will surely not refuse, Christian soul?
+
+Only if you have the childlike spirit, which neither wonders nor is offended that the world passes you by so proudly, then the heart does not become bitter in suffering, nor evil under scorn. Believe in Him who bore the cross before you, and bore the cross for your sake, and His way to glory shall become your way to eternal blessedness. The one who believes most and loves best, he shall become greatest, even though the world should tread him down with the coldest contempt.
+
+But the one who causes God’s children to stumble, who mocks their faith and thrusts away their love, who lays stones in their way so that they may stumble and fall, his own way is dark and his work evil. And yet it is unavoidable that the world will attempt this work of wickedness also. With its cleverness it will try to shoot the arrows of doubt into the hearts of the children; with its desire it will try to lay snares for their feet; with its power it will try to awaken fear and anguish in their souls. Evil, cruel world; it has no peace itself, and those who have peace it would make peace-less again. It shall receive its judgment; but you, child of God, fear the power of seduction and of stumbling; for it is great. Flee to your Savior’s heart and cling as a little child to His hand, and He shall lead you past the stumbling-block, so that it shall not seize you. Safe in your Savior’s arms, with a childlike spirit you shall come well through; and glad to attain the lowest place in the Kingdom of God, you shall learn that the one who needed most grace and therefore clung most closely to the Savior’s heart found the best place. Blessed is the one who became the least, when the least son or daughter is granted to rest nearest the Father’s breast. Then you shall be content with your lot and praise that God who resists the proud, but gives grace to the humble.

@@ -50,6 +50,12 @@
 \contentsline {section}{\numberline {49}Tenth Sunday after Trinity: To whom should we go?}{162}{section.49}%
 \contentsline {section}{\numberline {50}Eleventh Sunday after Trinity: Self-Exaltation and Self-Humbling}{165}{section.50}%
 \contentsline {section}{\numberline {51}Twelfth Sunday after Trinity: A Man Born Blind}{168}{section.51}%
-\contentsline {section}{\numberline {52} ***In progress*** }{172}{section.52}%
-\contentsline {section}{\numberline {53}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{173}{section.53}%
-\contentsline {section}{\numberline {54} ***In progress*** }{176}{section.54}%
+\contentsline {section}{\numberline {52}Thirtieth Sunday after Trinity: Brotherly Love}{172}{section.52}%
+\contentsline {section}{\numberline {53}Fourteenth Sunday after Trinity: With God there is no partiality}{175}{section.53}%
+\contentsline {section}{\numberline {54}Fifteenth Sunday after Trinity: A Dwelling-Place in Heaven}{179}{section.54}%
+\contentsline {section}{\numberline {55}Sixteenth Sunday after Trinity: A Faithful Friend in Distress and Death}{182}{section.55}%
+\contentsline {section}{\numberline {56}Seventeenth Sunday after Trinity: The Greatest in the Kingdom of Heaven}{186}{section.56}%
+\contentsline {section}{\numberline {57}Eighteenth Sunday after Trinity: What Is Impossible for Men is Possible for God}{189}{section.57}%
+\contentsline {section}{\numberline {58} ***In progress*** }{192}{section.58}%
+\contentsline {section}{\numberline {59}Twenty-fourth Sunday after Trinity: They knew neither the Scriptures nor the power of God.}{193}{section.59}%
+\contentsline {section}{\numberline {60} ***In progress*** }{196}{section.60}%
