@@ -54,15 +54,15 @@ verseOne = \lyricmode {
 verseTwo = \lyricmode {
   O Je -- sus rich in grace!
   With heart -- felt sor -- row, Lord,
-  Up -- on your Word now stand -- ing,
+  On your sure Word now stand -- ing
   Re -- joic -- ing in your mer -- _ cy,
   And trust -- ing in your prom -- ise:
   Your blood re -- deems my sin -- ning.
 }
 
 verseThree = \lyricmode {
-  I, a poor child of death,
-  En -- snared by sin-- 's net,
+  A wretch -- ed child of death
+  By sin's dark net en -- snared,
   To you in faith I has -- ten,
   And cast my -- self in -- to your arms;
   To gra -- ce's depths  I des -- cend,
@@ -72,7 +72,7 @@ verseThree = \lyricmode {
 verseFour = \lyricmode {
 I see my bond of debt
 nailed fast high on the cross,
-in your hal -- lowed gar -- den grave
+in your blest gar -- den gra -- ve
 there my own sin lies bur -- _ ied,
 by grace for -- ev -- er par -- doned.
 For why then should I still grieve?
@@ -96,7 +96,7 @@ verseSix = \lyricmode {
 O,  Sa -- tan's rage and roar 
 a -- gainst me full of hate,
 to tear me from my Lord's grace.
-They shall not have their way with me;
+That foe shall not wile me from grace.
 Vic -- to -- ry you now give me,
 your blood be -- comes sal -- vat -- ion.
 }
@@ -104,10 +104,10 @@ your blood be -- comes sal -- vat -- ion.
 verseSeven = \lyricmode {
 But bend, O friend of souls,
 de -- sire of my frail heart
-to de -- ny all faith -- less things
+to flee dark un -- faith -- ful ways
 which tear me from your lov -- ing side,
 and,  al -- ways here in life be
-mem -- ber of your bo -- dy stay.
+mem -- ber of yo -- ur bo -- dy.
 }
 
 
